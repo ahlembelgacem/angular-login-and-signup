@@ -1,0 +1,15 @@
+.login {
+  color: #fff;
+}
+.login a {
+  color: #d39e00;
+  font-weight: 600;
+  text-decoration: none;
+}
+.background-image-container {
+  background-image: url('https://science.howstuffworks.com/8-mind-bending-facts-about-outer-space.htm');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
